@@ -14,5 +14,6 @@ questa è la diacnaso
   <a href="#">Sostituzione terminale principale</a> </br>
   <a href="WinEPTS.html">Installazione WinEPTS</a> </br>
   <a href="#">Exit</a> </br>
+  <a href="#">Ciao</a> </br>
  
  </div>
