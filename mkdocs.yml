@@ -1,7 +1,7 @@
 site_name: Guida Syrve
 
 nav:
-    - Menu: index.md
-    - WinEPTS: winepts.md
+   - Menu: index.md
+   - WinEPTS: winepts.md
    
 
