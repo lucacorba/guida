@@ -1,19 +1,11 @@
-# Titolo modificato
-questa è la diacnaso
+# Guida Syrve
+In questa guida è possibile trovare le procedure di supporto e assistenza
 
-## Sottotitolo
-
-### Sotto-sottotitolo
-
-*ciao*
 
 <div class="vertical-menu">
-  <a href="#" class="active">Home</a> </br>
+  <a href="docs\doc.md">Installazione WinEPTS</a> </br>
   <a href="#">Driver RTS bloccato</a> </br>
-  <a href="#">Apertura turno</a> </br>
-  <a href="#">Sostituzione terminale principale</a> </br>
-  <a href="WinEPTS.html">Installazione WinEPTS</a> </br>
-  <a href="#">Exit</a> </br>
-  <a href="#">Ciao</a> </br>
+</div>
+
+
  
- </div>
