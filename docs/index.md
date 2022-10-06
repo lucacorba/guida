@@ -1,4 +1,4 @@
-# Welcome to Guida
+# Welcome to Bella Guida
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
