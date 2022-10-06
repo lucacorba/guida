@@ -1,17 +1,19 @@
-# Welcome to Bella Guida
+# Titolo modificato
+questa è la diacnaso
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Sottotitolo
 
-## Commands
+### Sotto-sottotitolo
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+*ciao*
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<div class="vertical-menu">
+  <a href="#" class="active">Home</a> </br>
+  <a href="#">Driver RTS bloccato</a> </br>
+  <a href="#">Apertura turno</a> </br>
+  <a href="#">Sostituzione terminale principale</a> </br>
+  <a href="WinEPTS.html">Installazione WinEPTS</a> </br>
+  <a href="#">Exit</a> </br>
+  <a href="#">Ciao</a> </br>
+ 
+ </div>
