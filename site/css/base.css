@@ -15,7 +15,7 @@ body::before {
     height: 100%;
     top: 0;
     left: 0;
-    background-color: #f8f8f8;
+    background-color: #f8f8f8; 
     background: url(../img/grid.png) repeat-x;
     will-change: transform;
     z-index: -1;
@@ -109,7 +109,7 @@ a code {
 }
 
 a:hover code, a:focus code {
-    color: #157AB5;
+    color: #31ac83;
 }
 
 footer {
