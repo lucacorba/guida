@@ -1,9 +1,16 @@
 site_name: Guida Syrve
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
 
 nav:
    - Home: index.md
    - WinEPTS: winepts.md
    - RTSWpos1: RTSWpos1.md
    - Stato RT: VerificaStatoRT.md
+
+
+
    
 
