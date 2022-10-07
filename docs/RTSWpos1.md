@@ -20,7 +20,6 @@ Questa guida ci consente di verificare il mancato collegamento tra Syrve e la st
 
 #### ***Nel caso di Esito NEGATIVO consultare guida [Verifica Stato stampante RT]***
 
-<figure markdown>
-  ![Image title](https://github.com/lucacorba/guida/blob/main/site/img/WEClient_1.png?raw=true/600x400/){ width="500" }
-  <figcaption>Image caption</figcaption>
+ ![Image title](https://github.com/lucacorba/guida/blob/main/site/img/RTS.PNG?raw=true/600x400/){ width="500" }
+  <figcaption></figcaption>
 </figure>
