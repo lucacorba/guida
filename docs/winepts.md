@@ -1,7 +1,8 @@
 # WinEPTS Configurazione
 
 ## .
-
+- Scaricare la cartella WEClient_test
+[Download](#){ .md-button }
 - Copiare la cartella WEClient_test in C:\
 - Eseguire C:\WEClient_test\WEClientSettings.exe
  ----------------------
@@ -19,7 +20,7 @@
 #### - Tab Servers:
     - Listening Port = 30000
 #### - Tab WinEPTS:
-    - Note ID = 66666
+    - Note ID = [specificare ID Cliente fornito da NCR]
     - Port ID = 1
     - WES1 IP @port = 3.121.13.53@5002
 
@@ -29,7 +30,7 @@
  ----------------------    
 
 #### - Tab UPB:
-    - Note ID = 66666
+    - Note ID = [specificare ID Cliente fornito da NCR]
     - Port ID = 1
     - UPB1 IP @port = 212.45.133.36@4445
 
@@ -42,7 +43,7 @@
     - PIN pad
     - UDP
     - IP Address = [ip terminale NCR]
-    - IP Port = 60000
+    - IP Port = 6000
     - Listening Port = 19000
 
    
